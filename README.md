@@ -10,7 +10,7 @@
 
 <br/>
 
-**CS undergrad at MEC🖥️**
+**CS undergrad at MEC**
 
 *Building things at the intersection of real problems and elegant code*
 *— from cipher-breaking tools to AI writing agents 🚀*
