@@ -91,18 +91,6 @@
 
 ---
 
-### `// find me around`
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binaha-mary-18607229a)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/binaha_mary)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binahamary@gmail.com)
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,100:0b0f1a&height=80&section=footer" width="100%"/>
 
 </div>
